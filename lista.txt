@@ -1,2 +1,3 @@
 Nombre Apellido / Fecha
-Julián Jossué Paniagua Finot
+Julián Jossué Paniagua Finot / 07-05-2025
+Cristian Baldiviezo / 07-05-2025
